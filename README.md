@@ -1,4 +1,3 @@
 # Battleship
 
-Simple battleship game. 
-Includes a human player and a computer player.
+Simple game including a human player and a computer player.
